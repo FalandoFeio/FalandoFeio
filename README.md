@@ -1,4 +1,4 @@
-- Opa, eu sou o Gabriel e criei o @FalandoFeio para ajudar os nós desenvolvedores a termos um repositório simples e objetivo de questões 
+Opa, eu sou o Gabriel e criei o @FalandoFeio para ajudar os nós desenvolvedores a termos um repositório simples e objetivo de questões 
 do dia a dia que costumamos esquecer pelo tanto de informação que recebemos diariamente.
 
 A idéia aqui é falar sobre assuntos simples, de forma simples e direta! 
